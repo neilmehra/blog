@@ -2,7 +2,7 @@
 layout: post
 title:  Post Example with MathJax
 date:   2024-03-02
-categories: jekyll update
+tags: cp
 usemathjax: true
 ---
 
@@ -24,7 +24,7 @@ y = y(x,t) &= A e^{i\theta} \\
 \end{align*}
 $$
 
-Inline maths can be written with the `\\(` and `\\)` characters, producing inline equations
-such as \\(\delta(t) \xrightarrow{\mathscr{F}} 1\\).
+Inline math can be written with the `$` and `$` characters, producing inline equations
+such as $\delta(t) \xrightarrow{\mathscr{F}} 1$.
 
-The above is accomplished with thanks to [Alan Duan](https://alanduan.me/random/mathjax/).
+The above is accomplished with thanks to [Bodun Hu](https://www.bodunhu.com/blog/posts/add-mathjax-support-to-jekyll-and-hugo/).
