@@ -6,7 +6,7 @@ excerpt:
 comments: false
 ---
 
-Hi, I'm Neil, currently a freshman studying computer science and math at Stony Brook University.
+Hi, I'm Neil, currently a sophomore studying computer science at Georgia Tech.
 I originally started this blog out of the desire to document intriguing competitive programming problems I encounter.
 Although this blog was created with the intent of being focused on competitive programming, I plan to also write posts on any topics unrelated to CP, if they interest me.
 
