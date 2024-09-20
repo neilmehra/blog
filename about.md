@@ -6,9 +6,8 @@ excerpt:
 comments: false
 ---
 
-Hi, I'm Neil, currently a sophomore studying computer science at Georgia Tech.
-I originally started this blog out of the desire to document intriguing competitive programming problems I encounter.
-Although this blog was created with the intent of being focused on competitive programming, I plan to also write posts on any topics unrelated to CP, if they interest me.
+Hi, I'm Neil, a 2nd year student studying computer science at Georgia Tech.
+I started this blog to document problems/topics that interest me.
 
 #### Contact
 
