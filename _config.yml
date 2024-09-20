@@ -12,7 +12,6 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Neil Mehra # author name
   bio: >- # tell to the world
-    A blog on problems I find interesting, and other hobbies of mine.
   username: username # general username
   github: asiankoala # github username
   twitter: asiank0ala # twitter username
