@@ -6,7 +6,7 @@ excerpt:
 comments: false
 ---
 
-Hi, I'm Neil, a 2nd year student studying computer science at Georgia Tech.
+Hi, I'm Neil, a junior studying computer science at Georgia Tech.
 I started this blog to document problems/topics that interest me.
 
 #### Contact
