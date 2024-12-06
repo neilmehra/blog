@@ -15,8 +15,8 @@ My interests lie primarily in low-latency systems and performance tuning. In my 
 
 #### Contact
 
-1. [Email](mailto:neilmehra@outlook.com)
-2. [GitHub](https://github.com/neilmehra/)
-3. [LinkedIn](https://www.linkedin.com/in/nemehra/)
-4. [YouTube](https://www.youtube.com/@neilmehra_)
+1. [GitHub](https://github.com/neilmehra/)
+2. [LinkedIn](https://www.linkedin.com/in/nemehra/)
+3. [YouTube](https://www.youtube.com/@neilmehra_)
 
+For any further questions, feel free to contact me at neilmehra[at]outlook[dot]com.
