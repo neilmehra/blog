@@ -19,4 +19,4 @@ My interests lie primarily in low-latency systems and performance tuning. In my 
 2. [LinkedIn](https://www.linkedin.com/in/nemehra/)
 3. [YouTube](https://www.youtube.com/@neilmehra_)
 
-For any further questions, feel free to contact me at neilmehra[at]outlook[dot]com.
+For any further questions, feel free to contact me at neilmehra [at] outlook [dot] com.
