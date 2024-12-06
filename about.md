@@ -13,7 +13,7 @@ on the US Equities HFT Team.
 
 My interests lie primarily in low-latency systems and performance tuning. In my free time, I enjoy watching K-Dramas.
 
-#### Contact
+#### Socials
 
 1. [GitHub](https://github.com/neilmehra/)
 2. [LinkedIn](https://www.linkedin.com/in/nemehra/)
