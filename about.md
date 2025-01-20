@@ -10,10 +10,13 @@ I'm currently a junior studying computer science at Georgia Tech. Next summer, I
 
 #### Interests
 
-- Neovim ([my config](https://github.com/neilmehra/nvim))
+- Neovim ([config](https://github.com/neilmehra/nvim))
 - Algorithms/CS Theory
 - Performance tuning
 - Excessive TMP
+- Kernel dev
+- K-Dramas
+- Tinkering with [my dotfiles](https://github.com/neilmehra/dotfiles)
 
 #### Contact
 
