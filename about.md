@@ -6,7 +6,7 @@ excerpt:
 comments: false
 ---
 
-I'm currently a junior studying math at Georgia Tech. This summer, I will be interning at Optiver in the Austin office. Previously, I interned at Qube Research & Technologies in London, on the US Equities HFT desk.
+I'm currently a junior studying math at Georgia Tech. This summer, I will be interning at Optiver in the Austin office. I previously interned at Qube Research & Technologies in their London office, on the US Equities HFT desk.
 
 #### Contact
 
