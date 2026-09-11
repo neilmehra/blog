@@ -76,6 +76,7 @@ exclude:
   - CHANGELOG.md
   - README.md
   - node_modules
+  - package.json
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - lighthouse.png
