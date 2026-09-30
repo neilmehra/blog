@@ -6,7 +6,7 @@ excerpt:
 comments: false
 ---
 
-Hi! I currently train energy-efficient LLMs at [Deepgrove](https://deepgrove.ai/). Previously, I worked in high-frequency trading @ Optiver and Qube Research & Technologies. 
+Hi! I currently train 1.58bit LLMs at [Deepgrove](https://deepgrove.ai/). Previously, I worked in high-frequency trading @ Optiver and Qube Research & Technologies. 
 
 Feel free to reach out: neilmehra [at] outlook [dot] com
 
