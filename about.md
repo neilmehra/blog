@@ -6,12 +6,12 @@ excerpt:
 comments: false
 ---
 
-I’m a junior studying math at Georgia Tech. I’ll be interning at Optiver in Austin this summer, and previously worked at Qube Research & Technologies in London.
+Hi! I currently train energy-efficient LLMs at [Deepgrove](https://deepgrove.ai/). Previously, I worked in high-frequency trading @ Optiver and Qube Research & Technologies. 
 
-#### Contact
+Feel free to reach out: neilmehra [at] outlook [dot] com
 
-1. neilmehra [at] outlook [dot] com
-1. [GitHub](https://github.com/neilmehra/)
+#### Socials
+
 2. [LinkedIn](https://www.linkedin.com/in/nemehra/)
-3. [YouTube](https://www.youtube.com/@neilmehra_)
+1. [GitHub](https://github.com/neilmehra/)
 
