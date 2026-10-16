@@ -6,7 +6,7 @@ excerpt:
 comments: false
 ---
 
-hi! im currently pushing pareto @ [Deepgrove](https://deepgrove.ai/). prior to this, i worked in high-frequency trading @ Optiver and Qube Research & Technologies.
+hi! im currently pushing pareto @ [Deepgrove](https://deepgrove.ai/). prior to this, i worked in high-frequency trading
 
 feel free to reach out (we're hiring!): neil [at] deepgrove [dot] ai
 
