@@ -6,9 +6,9 @@ excerpt:
 comments: false
 ---
 
-Hi! I currently train 1-bit LLMs at [Deepgrove](https://deepgrove.ai/). Previously, I worked in high-frequency trading @ Optiver and Qube Research & Technologies. 
+hi! im currently pushing pareto @ [Deepgrove](https://deepgrove.ai/). prior to this, i worked in high-frequency trading @ Optiver and Qube Research & Technologies.
 
-Feel free to reach out: neilmehra [at] outlook [dot] com
+feel free to reach out (we're hiring!): neil [at] deepgrove [dot] ai
 
 #### Socials
 
